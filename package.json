@@ -1,6 +1,7 @@
 {
   "name": "garaje-code-pills-node-api-express",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "repository": "git@github.com:glrodasz/garaje-code-pills-node-api-express.git",
   "author": "Guillermo Rodas <me@guillermorodas.com>",
